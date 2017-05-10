@@ -1,8 +1,13 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+.container {
+  padding-top: 50px;
 }
 
-a {
-  color: #00B7FF;
+.center {
+  text-align: center;
+}
+
+#canvas-video {
+  width: 640px;
+  height: 480px;
+  border: 1px solid #ccc;
 }
