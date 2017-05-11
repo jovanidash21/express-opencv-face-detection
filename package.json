@@ -10,9 +10,9 @@
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.0",
     "express": "~4.14.1",
-    "jade": "~1.11.0",
     "morgan": "~1.7.0",
     "opencv": "git+https://github.com/peterbraden/node-opencv.git",
+    "pug": "^2.0.0-rc.1",
     "serve-favicon": "~2.3.2",
     "socket.io": "^1.7.2"
   }
