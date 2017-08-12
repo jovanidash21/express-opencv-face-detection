@@ -1,9 +1,16 @@
 {
-  "name": "nodejs-express-opencv-face-detection",
+  "name": "express-opencv-face-detection",
   "version": "0.0.0",
+  "description": "",
   "private": true,
+  "author": "Jovani Warguez",
+  "main": "bin/www",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jovanidash/opencv-face-detection.git"
+  },
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "node bin/www"
   },
   "dependencies": {
     "body-parser": "~1.16.0",
