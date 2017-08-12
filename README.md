@@ -8,11 +8,11 @@
 ## Installation
 * Clone or download this repository.
 ```
-git clone https://github.com/jovanidash21/nodejs-express-opencv-face-detection.git
+git clone https://github.com/jovanidash21/express-opencv-face-detection.git
 ```
 * Navigate to the project directory.
 ```
-cd nodejs-express-opencv-face-detection
+cd express-opencv-face-detection
 ```
 * Install node modules.
 ```
