@@ -18,9 +18,9 @@ cd express-opencv-face-detection
 ```
 npm install
 ```
-* Run 'www' file inside the bin directory.
+* Run the project.
 ```
-node ./bin/www
+npm start
 ```
 * Open a browser and visit ```localhost:3000```.
 
